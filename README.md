@@ -93,8 +93,8 @@ Always learning, always building.
 
 <div align="center">
 
-  [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basel_76z)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basel.m.alzahrani@gmail.com)
+  [![Twitter](https://img.shields.io/badge/X_(Twitter)-FFD700?style=for-the-badge&logo=x&logoColor=black)](https://x.com/basel_76z)
+  [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:basel.m.alzahrani@gmail.com)
 
 </div>
 
@@ -108,8 +108,8 @@ Always learning, always building.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FFD700&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer" alt="Footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FFD700&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FFD700&height=120&section=footer" alt="Footer"/>
 </picture>
 
 <div align="center">
