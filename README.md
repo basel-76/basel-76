@@ -79,13 +79,13 @@ Always learning, always building.
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basel-76&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basel-76&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basel-76&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area_color=6e40c9&area=true&hide_border=true&radius=12" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basel-76&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area_color=FFD700&area=true&hide_border=true&radius=12" alt="Activity Graph" width="95%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
