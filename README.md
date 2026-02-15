@@ -79,7 +79,7 @@ Always learning, always building.
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basel-76&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basel-76&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 <br/>
