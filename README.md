@@ -49,16 +49,6 @@
 
 <div align="center">
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basel-76&repo=creators-hub&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117" alt="Creators Hub" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 📊 Creators Hub
 > **YouTube Creator Statistics Platform**
 >
@@ -70,14 +60,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=basel-76&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&icon_color=6e40c9&title_color=6e40c9&text_color=ffffff&ring_color=6e40c9" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basel-76&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6e40c9&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basel-76&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
