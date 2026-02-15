@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="happy-dnd.gif" alt="Happy D&D" width="400"/>
+</div>
+
 <br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
