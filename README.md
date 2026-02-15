@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**basel-76/basel-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<br clear="right"/>
+<br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> &nbsp;Tech Stack
@@ -106,9 +94,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basel_76z)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basel.m.alzahrani@gmail.com)
 
 </div>
 
@@ -129,6 +116,3 @@ Here are some ideas to get you started:
 <div align="center">
   <i>✨ "Build what matters, share what you learn." ✨</i>
 </div>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
