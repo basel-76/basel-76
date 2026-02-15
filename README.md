@@ -101,13 +101,13 @@ Always learning, always building.
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=basel-76&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=basel-76&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FFD700&height=120&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer" alt="Footer"/>
 </picture>
