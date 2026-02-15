@@ -1,6 +1,19 @@
-<div align="center">
-  <img src="happy-dnd.gif" alt="Happy D&D" width="400"/>
-</div>
+<table>
+<tr>
+<td width="400" align="center">
+  <img src="happy-dnd.gif" alt="Happy D&D" width="380"/>
+</td>
+<td>
+
+### Hey there! 👋 I'm Basel
+
+A passionate developer who loves building meaningful projects with modern technologies. I enjoy working across the full stack — from crafting clean frontends to designing robust backends and exploring AI-driven solutions.
+
+Always learning, always building.
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
